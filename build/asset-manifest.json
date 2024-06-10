@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15a80ddc.css",
+    "main.js": "/static/js/main.b7481bae.js",
+    "static/media/hero2.png": "/static/media/hero2.40e6d2645169811af744.png",
+    "static/media/gameboy_fax_.png": "/static/media/gameboy_fax_.a9af6b03910eeb927c86.png",
+    "static/media/kids1.png": "/static/media/kids1.a5a5415af0c05ad4633c.png",
+    "static/media/fax_modem.png": "/static/media/fax_modem.ebce11d992db43c423b2.png",
+    "static/media/old_computer.png": "/static/media/old_computer.8a41b6811d5fc5e74bbb.png",
+    "static/media/cybermouflons.png": "/static/media/cybermouflons.755eded8fb9cdc04e04c.png",
+    "static/media/gt.svg": "/static/media/gt.38335c94905ea735c6c0b571923d01fc.svg",
+    "index.html": "/index.html",
+    "main.15a80ddc.css.map": "/static/css/main.15a80ddc.css.map",
+    "main.b7481bae.js.map": "/static/js/main.b7481bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15a80ddc.css",
+    "static/js/main.b7481bae.js"
+  ]
+}
