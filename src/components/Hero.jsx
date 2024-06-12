@@ -28,7 +28,7 @@ function Hero() {
 
             <Button otherClasses={"bg-white text-black mx-2"}>Register</Button>
             <Button otherClasses={"bg-fuchsia-500 text-white mx-2"}>
-          <a href="https://discord.gg/AZKTqTBDmJ">
+          <a href="https://discord.gg/kjm5WNpSqz">
               Join Discord
           </a>
             </Button>
